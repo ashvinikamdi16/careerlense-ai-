@@ -1,0 +1,91 @@
+{
+  "Python": [
+    "python3",
+    "python programming"
+  ],
+  "C++": [
+    "cpp",
+    "c plus plus"
+  ],
+  "Java": [
+    "java programming"
+  ],
+  "JavaScript": [
+    "javascript",
+    "js"
+  ],
+  "HTML": [
+    "html5"
+  ],
+  "CSS": [
+    "css3"
+  ],
+  "SQL": [
+    "mysql",
+    "postgresql",
+    "sqlite",
+    "structured query language"
+  ],
+  "Excel": [
+    "microsoft excel",
+    "ms excel"
+  ],
+  "Power BI": [
+    "powerbi"
+  ],
+  "Tableau": [],
+  "Machine Learning": [
+    "machine learning"
+  ],
+  "Deep Learning": [],
+  "NLP": [
+    "natural language processing"
+  ],
+  "Pandas": [],
+  "NumPy": [],
+  "scikit-learn": [
+    "sklearn",
+    "scikit learn"
+  ],
+  "Flask": [],
+  "Django": [],
+  "Streamlit": [],
+  "Git": [
+    "github",
+    "git version control"
+  ],
+  "Linux": [],
+  "AWS": [
+    "amazon web services"
+  ],
+  "Azure": [
+    "microsoft azure"
+  ],
+  "Docker": [],
+  "REST API": [
+    "restful api"
+  ],
+  "Data Analysis": [
+    "data analytics"
+  ],
+  "Statistics": [
+    "statistical analysis"
+  ],
+  "Communication": [
+    "communication skills"
+  ],
+  "Problem Solving": [
+    "problem-solving",
+    "analytical thinking"
+  ],
+  "React": [
+    "react.js",
+    "reactjs"
+  ],
+  "Node.js": [
+    "nodejs"
+  ],
+  "MongoDB": [],
+  "TensorFlow": [],
+  "PyTorch": []
+}

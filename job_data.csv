@@ -1,0 +1,9 @@
+title,required_skills,description
+Python Developer,Python|SQL|Git|REST API|Flask,Build Python applications and APIs and work with databases.
+Data Analyst,Python|SQL|Excel|Power BI|Statistics,Analyze data and create reports and dashboards for business decisions.
+Machine Learning Intern,Python|Pandas|NumPy|scikit-learn|Machine Learning,Prepare datasets train baseline models and evaluate experiments.
+Frontend Developer,HTML|CSS|JavaScript|React|Git,Build responsive user interfaces and work with frontend components.
+Full Stack Developer,HTML|CSS|JavaScript|Python|SQL|REST API,Build frontend features and connect them to backend services and databases.
+NLP Intern,Python|NLP|Pandas|scikit-learn|Machine Learning,Process text data and build simple NLP experiments.
+Business Analyst,Excel|SQL|Communication|Problem Solving|Data Analysis,Analyze business requirements and communicate recommendations.
+Cloud Support Associate,Linux|AWS|Git|Problem Solving|Communication,Support cloud systems and troubleshoot technical issues.
